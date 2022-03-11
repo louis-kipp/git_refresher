@@ -1,5 +1,3 @@
 Hello Git and Github
 
-Making a practice edit
-
-A third pract commit
+Updating this file for a practice commit
